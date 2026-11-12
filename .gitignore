@@ -1,0 +1,15 @@
+# 环境与密钥
+.env
+secrets/
+*.key
+
+# 数据与运行产物
+data/
+*.db
+eval/output/
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
